@@ -45,7 +45,7 @@ public class Empleado {
     }
 
     public float getSalario() {
-        return edad;
+        return salario;
     }
 
     public void setSalario(float salario) {
